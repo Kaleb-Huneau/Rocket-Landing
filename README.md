@@ -17,4 +17,4 @@ Lastly, to install the requirements of the project, make sure the environment is
 
 
 Progress:
-https://user-images.githubusercontent.com/15944747/204634718-7823771f-dfb0-4fea-a65d-397ea5e0b045.mp4
+![first-model](https://user-images.githubusercontent.com/15944747/204636577-f71dc4d3-f556-4852-80a5-eb73ef6f09d8.gif)
