@@ -14,3 +14,7 @@ Once done, you can activate the virtual environment by running:
 Lastly, to install the requirements of the project, make sure the environment is activated and run the command:
 
 > pip install -r requirements.txt
+
+
+Progress:
+https://user-images.githubusercontent.com/15944747/204634718-7823771f-dfb0-4fea-a65d-397ea5e0b045.mp4
